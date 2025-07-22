@@ -39,7 +39,6 @@ The following Python libraries and tools are used:
 
 The experimental datasets, which include aggregation dynamics and extraction parameters, are preprocessed as follows:
 
-- **Missing Value Imputation**: Median-based imputation is used to handle missing values  
 - **One-Hot Encoding**: Categorical variables such as buffer types and sorbent configurations are encoded using one-hot encoding  
 - **Data Partitioning**: The data is stratified and partitioned into an 80% training set and a 20% independent test set to preserve population distribution characteristics  
 
@@ -113,4 +112,4 @@ This project is licensed under [Specify the License].
 
 ## Contact
 
-If you have any questions or suggestions, please contact [Your Email Address].
+If you have any questions or suggestions, please contact [18305683229@163.com].
