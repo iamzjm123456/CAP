@@ -108,7 +108,7 @@ The SHAP analysis results are saved as an image: `shap_summary.png` in the relev
 
 ## License
 
-This project is licensed under [Specify the License].
+This project is licensed under the MIT License.
 
 ## Contact
 
