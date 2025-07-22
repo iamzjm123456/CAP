@@ -12,7 +12,7 @@ The main goals of this research are:
 - To enhance model interpretability and maintain prediction accuracy through rigorous validation protocols and hardware-accelerated computation.
 - To quantitatively resolve feature contributions to CAP extraction efficiency using SHAP value decomposition.
 
-## Methodology
+## Method
 
 ### Machine Learning Models
 
